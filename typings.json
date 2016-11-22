@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "body-parser": "registry:npm/body-parser#1.15.2+20161116154925",
+    "express": "registry:npm/express#4.14.0+20160925001530",
+    "sinon": "registry:npm/sinon#1.16.0+20160723033700"
+  },
+  "globalDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "mocha": "registry:dt/mocha#2.2.5+20161028141524"
+  }
+}
