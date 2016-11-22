@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "Maintenance and Fule Tracker",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.24.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.8"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "godaddy-style": "^3.1.6",
