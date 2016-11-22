@@ -1,0 +1,28 @@
+{
+  "name": "car-app",
+  "version": "1.0.0",
+  "description": "Maintenance and Fule Tracker",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "godaddy-style": "^3.1.6",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6",
+    "typings": "^2.0.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnsonWebWare/car-app.git"
+  },
+  "author": "ajohn2550",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnsonWebWare/car-app/issues"
+  },
+  "homepage": "https://github.com/JohnsonWebWare/car-app#readme"
+}
